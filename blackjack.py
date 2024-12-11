@@ -2,7 +2,7 @@ import random
 import os
 
 
-# Kart dəstəsi
+# Kart dəstəsi  #
 kart_destesi = [2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K', 'A'] * 4
 
 oyuncu_qazanma_sayi = 0
